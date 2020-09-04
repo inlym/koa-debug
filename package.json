@@ -1,0 +1,19 @@
+{
+	"name": "koa-debugging",
+	"version": "1.0.0",
+	"description": "返回Koa框架所有的属性用于调试和测试",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/inlym/koa-debugging.git"
+	},
+	"author": "inlym",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/inlym/koa-debugging/issues"
+	},
+	"homepage": "https://github.com/inlym/koa-debugging#readme"
+}
