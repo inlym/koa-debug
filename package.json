@@ -1,5 +1,5 @@
 {
-	"name": "koa-debugging",
+	"name": "koa-debug",
 	"version": "1.0.0",
 	"description": "返回Koa框架所有的属性用于调试和测试",
 	"main": "index.js",
@@ -8,12 +8,12 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/inlym/koa-debugging.git"
+		"url": "git+https://github.com/inlym/koa-debug.git"
 	},
 	"author": "inlym",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/inlym/koa-debugging/issues"
+		"url": "https://github.com/inlym/koa-debug/issues"
 	},
-	"homepage": "https://github.com/inlym/koa-debugging#readme"
+	"homepage": "https://github.com/inlym/koa-debug#readme"
 }
