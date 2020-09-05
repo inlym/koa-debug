@@ -1,6 +1,6 @@
 {
 	"name": "koa-debug",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"description": "返回Koa框架所有的属性用于调试和测试",
 	"main": "index.js",
 	"scripts": {
