@@ -5,7 +5,6 @@
 ```
 {
     "headers": {
-        "aaa": "ddd",
         "content-type": "application/json",
         "user-agent": "PostmanRuntime/7.26.3",
         "accept": "*/*",
