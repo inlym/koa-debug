@@ -19,7 +19,8 @@ const Router = require('koa-router')
 const app = new Koa()
 const router = new Router()
 
-app.use(debug())    // 放在其他中间件之前
+// 放在其他中间件之前
+app.use(debug())
 
 app.use(bodyParser())
 router.post('/path/to', ctx => {
