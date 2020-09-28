@@ -105,7 +105,6 @@
 		"block-spacing": ["error", "always"],
 		"brace-style": ["error", "1tbs"],
 		"camelcase": "error",
-		"comma-dangle": ["error", "always"],
 		"comma-spacing": [
 			"error",
 			{
@@ -114,11 +113,11 @@
 			}
 		],
 		"comma-style": ["error", "last"],
-		"computed-property-spacing": ["error", "always"],
+		"computed-property-spacing": ["error", "never"],
 		"consistent-this": ["error", "self"],
 		"eol-last": ["error", "always"],
 		"func-call-spacing": ["error", "never"],
-		"func-names": ["error", "never"],
+		"func-names": ["error", "always"],
 		"function-paren-newline": ["error", "multiline"],
 		"id-blacklist": ["error", "e", "cb"],
 		"implicit-arrow-linebreak": ["error", "beside"],
@@ -185,7 +184,6 @@
 		],
 		"no-underscore-dangle": "off",
 		"no-whitespace-before-property": "error",
-		"object-curly-newline": ["error", "always"],
 		"object-curly-spacing": ["error", "always"],
 		"operator-linebreak": ["error", "before"],
 		"quote-props": ["error", "as-needed"],
